@@ -1,0 +1,30 @@
+=== ATTACK SOURCE ANALYSIS ===
+
+Attack Source Distribution:
+Attack Source
+Nation-state    794
+Unknown         768
+Insider         752
+Hacker Group    686
+
+Attack Source by Country:
+Attack Source  Hacker Group  Insider  Nation-state  Unknown
+Country                                                    
+Australia                62       81            80       74
+Brazil                   77       70            77       86
+China                    60       73            76       72
+France                   70       72            80       83
+Germany                  72       71            77       71
+India                    67       88            72       81
+Japan                    63       74            96       72
+Russia                   61       80            80       74
+UK                       89       68            84       80
+USA                      65       75            72       75
+
+Attack Type by Source:
+Attack Type    DDoS  Malware  Man-in-the-Middle  Phishing  Ransomware  SQL Injection
+Attack Source                                                                       
+Hacker Group    122      117                107       125         118             97
+Insider         147      121                107       129         121            127
+Nation-state    137      124                131       141         123            138
+Unknown         125      123                114       134         131            141

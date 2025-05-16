@@ -1,0 +1,50 @@
+=== CYBERSECURITY BREACH DATA ANALYSIS ===
+
+Total records: 3000
+Date range: 2015 - 2024
+Countries included: Australia, Brazil, China, France, Germany, India, Japan, Russia, UK, USA
+
+=== MISSING VALUES ===
+Country                                0
+Year                                   0
+Attack Type                            0
+Target Industry                        0
+Financial Loss (in Million $)          0
+Number of Affected Users               0
+Attack Source                          0
+Security Vulnerability Type            0
+Defense Mechanism Used                 0
+Incident Resolution Time (in Hours)    0
+
+=== NUMERIC STATISTICS ===
+              Year  Financial Loss (in Million $)  Number of Affected Users  Incident Resolution Time (in Hours)
+count  3000.000000                     3000.00000               3000.000000                          3000.000000
+mean   2019.570333                     4593.64800             504684.136333                            36.476000
+std       2.857932                     3038.95873             289944.084972                            20.570768
+min    2015.000000                        5.00000                424.000000                             1.000000
+25%    2017.000000                     1674.75000             255805.250000                            19.000000
+50%    2020.000000                     4430.50000             504513.000000                            37.000000
+75%    2022.000000                     7254.75000             758088.500000                            55.000000
+max    2024.000000                     9999.00000             999635.000000                            72.000000
+
+=== ATTACK TYPE DISTRIBUTION ===
+Attack Type
+DDoS                 531
+Phishing             529
+SQL Injection        503
+Ransomware           493
+Malware              485
+Man-in-the-Middle    459
+
+=== YEARLY ATTACK DISTRIBUTION ===
+Year
+2015    277
+2016    285
+2017    319
+2018    310
+2019    263
+2020    315
+2021    299
+2022    318
+2023    315
+2024    299
